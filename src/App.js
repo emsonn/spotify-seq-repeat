@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1>Hello, React</h1>
+        <h2>Play a song on your Spotify account to get started.</h2>
       </div>
     );
   }
