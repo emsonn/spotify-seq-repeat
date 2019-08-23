@@ -1,3 +1,16 @@
+# Spotify Sequence Repeater
+
+This React webapp will allow you to repeat a specified sequence of any song on Spotify, as many times as you want.  This feature is absent from the Spotify application, and doesn't seem to be a feature in any of the apps listed on their Dev Showcase page.
+
+In order to use this webapp, you will first have to authorize access to it via your Spotify account.
+
+The current song you're listening to will be displayed via the Spotify API, and you'll be able to specify your starting and ending point for the song to infinitely loop.
+
+
+Stay tuned for development updates!
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
